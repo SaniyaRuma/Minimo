@@ -1,0 +1,187 @@
+/*menu: playfair disply regular
+image-caption: ubuntu light
+title: playfair disply regular
+description: playfair disply regular 
+-------------
+font-family: 'Playfair Display', serif;
+font-family: 'Ubuntu', sans-serif;
+
+*/
+/*-----header start-----*/
+.header{} 
+.main_header{
+	padding: 20px 70px;
+}
+.main_header .logo{
+	width: 20%;
+	float: left;
+}
+.main_header .logo img{
+	width: 100%;
+}
+.main_header .menu {
+	width: 80%;
+	overflow: hidden; 
+}
+.main_header .menu nav {}
+.main_header .menu nav ul {
+	float: right;
+	margin-top: 20px;
+}
+.main_header .menu nav ul li {
+	display: inline-block;
+}
+.main_header .menu nav ul li a{
+	display: block;
+	text-decoration: none;
+	color: #626262;
+	text-transform: capitalize;
+	font-family: 'Playfair Display', serif;
+	padding: 62.5px;
+}
+
+.main_header .menu nav ul li:last-child a{
+	padding-right: 0px;
+}
+.main_header .menu nav ul li a:hover{}
+/*-----header end-----*/
+
+/*-----banner end-----*/
+.cover_pic{
+	padding: 20px 70px;
+}
+.cover_pic img{
+	width: 100%;
+} 
+.coverpic_content{
+	margin-left: 50px;
+}
+.coverpic_content h6{
+	margin-left: 70px;
+	display: block;
+	text-decoration: none;
+	color:#BAB2A6;
+	font-family: 'Ubuntu', sans-serif;
+}
+.coverpic_content h1{
+	margin-left: 70px;
+	display: block;
+	text-decoration: none;
+	color: #626262;
+	font-family: 'Playfair Display', serif;
+} 
+.coverpic_content  p{
+	margin-left: 70px;
+	display: block;
+	text-decoration: none;
+	color:#626262;
+	font-family: 'Playfair Display', serif;
+}
+
+/*-----banner end-----*/
+/*-----blog start-----*/
+.blog_row{
+	width: 100%;
+	padding: 100px;
+	overflow: hidden;
+	margin-left: 10px; 
+} 
+.blog_row .blog_left{
+	width: 38%;
+	float: left;
+}
+.blog_row .blog_left img{
+	width: 100%;
+} 
+.blog_row .blog_left h1{
+	display: block;
+	text-decoration: none;
+	color: #626262;
+	font-family: 'Playfair Display', serif;
+}  
+.blog_row .blog_left h6{
+	display: block;
+	text-decoration: none;
+	color:#BAB2A6;
+	font-family: 'Ubuntu', sans-serif;
+}
+.blog_row .blog_left p{
+	display: block;
+	text-decoration: none;
+	color:#626262;
+	font-family: 'Playfair Display', serif;
+}
+.blog_row .blog_right{
+	width: 38%;
+	float: right;
+	margin-right: 119px;
+	margin-left: 0px
+}
+.blog_row .blog_right img{
+	width: 100%;
+} 
+.blog_row .blog_right h1{
+	display: block;
+	text-decoration: none;
+	color: #626262;
+	font-family: 'Playfair Display', serif;
+}
+.blog_row .blog_right h6{
+	display: block;
+	text-decoration: none;
+	color:#BAB2A6;
+	font-family: 'Ubuntu', sans-serif;
+}
+.blog_row .blog_right p{
+	display: block;
+	text-decoration: none;
+	color:#626262;
+	font-family: 'Playfair Display', serif;
+}
+/*-----blog end-----*/
+.newsletter{
+	padding: 10px;
+    margin-left: 690px;
+    margin-right: 629px;
+}
+.newsletter .sign{}
+.newsletter .sign p{
+	display: block;
+	text-decoration: none;
+	color: #333333;
+	font-family: 'Playfair Display', serif;
+	font-size: 22px;
+}
+.newsletter .emal{
+	width: 100%;
+	border-bottom: 1px solid black;
+}  
+.newsletter .email .text{
+	width: 80%;
+	float: left;
+}
+.newsletter .email .text p{
+	/*text-decoration: none;*/
+	color: #333333;
+	font-family: 'Playfair Display', serif;
+	font-size: 10px;
+}
+.newsletter .email .pic{
+		width: 20%;
+		float: right;
+}
+.newsletter .email .pic img{} 
+span{
+	border: 1px solid black;
+	font-size:20px;
+	text-decoration: none;
+	color:#626262;
+	padding: 20px;
+	font-family: 'Playfair Display', serif;
+	text-align: center;
+	display: inline-block;
+	margin-left: 750px;
+}
+
+
+ gh 

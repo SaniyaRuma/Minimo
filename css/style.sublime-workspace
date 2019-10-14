@@ -1,0 +1,309 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"t",
+				"th\tTag"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"co",
+				"color\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"pa",
+				"padding-top\tproperty"
+			],
+			[
+				"bor",
+				"border\tproperty"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"te",
+				"textarea\tTag"
+			],
+			[
+				"fo",
+				"form\tTag"
+			],
+			[
+				"padd",
+				"padding-bottom\tproperty"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"tr",
+				"tr\tTag"
+			],
+			[
+				"border-c",
+				"border-collapse\tproperty"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"font",
+				"font-style\tproperty"
+			],
+			[
+				"p",
+				"p\tTag"
+			],
+			[
+				"background",
+				"background-color\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"my",
+				"mysql_connect"
+			],
+			[
+				"mysql_s",
+				"mysql_select_db"
+			],
+			[
+				"mysql_",
+				"mysql_connect"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/F/New folder/Desktop/prctice.html",
+		"/F/New folder/Desktop/html/class 3 form.html",
+		"/F/New folder/Desktop/html/class3 table.html",
+		"/F/New folder/Desktop/html/class3.html",
+		"/F/New folder/Desktop/inline",
+		"/F/New folder/Desktop/hw3.html",
+		"/F/New folder/Desktop/class3.html",
+		"/F/New folder/Desktop/class3 table.html",
+		"/F/New folder/Desktop/class2.html",
+		"/F/web again/class 2",
+		"/F/ruma/important/algorithms - Google Docs.html",
+		"/F/New folder/Desktop/index.html",
+		"/F/saiful/bangla song/Grand Theft Auto V [FitGirl Ultra Repack]/New folder/Rs Fahim Chowdhury 🇧🇩 (@swag_chacchu) • Instagram photos and videos_files/Tusher (@tusher_8900) • Instagram photos and videos.html",
+		"/C/MAMP/htdocs/starting again/20jul.html",
+		"/F/saiful/bangla song/Grand Theft Auto V [FitGirl Ultra Repack]/New folder/World Cup 2018 (@worldcup2018__) • Instagram photos and videos.html",
+		"/F/saiful/bangla song/Grand Theft Auto V [FitGirl Ultra Repack]/New folder/World Cup 2018 (@worldcup2018__) • Instagram photos and videos_files/#motrac • Instagram photos and videos.html",
+		"/C/MAMP/htdocs/index.php",
+		"/C/MAMP/htdocs/starting again/1",
+		"/C/MAMP/htdocs/starting again/1.html.txt",
+		"/C/MAMP/htdocs/starting again/7.txt",
+		"/C/MAMP/htdocs/starting again/index.html.txt",
+		"/C/Users/Jisan/1",
+		"/C/MAMP/htdocs/index.html.txt",
+		"/C/Users/Jisan/starting again/1",
+		"/F/New folder/Desktop/code1.cpp.txt",
+		"/C/Program Files/Sublime Text 3/sublime_text.exe",
+		"/C/Program Files/Sublime Text 3/crash_reporter.exe",
+		"/F/ruma/edu/eee/superpostion theorem",
+		"/E/XAMPP/htdocs/connect/connect.php",
+		"/F/downloads/dresses/photo.php",
+		"/E/XAMPP/htdocs/page_design/connect.php",
+		"/E/XAMPP/htdocs/page_design/insert.php",
+		"/E/XAMPP/htdocs/page_design/form.php",
+		"/E/XAMPP/htdocs/page_design/about.php",
+		"/E/XAMPP/htdocs/page_design/variable.php",
+		"/E/XAMPP/htdocs/page_design/loop.php",
+		"/E/XAMPP/htdocs/index.php",
+		"/E/XAMPP/htdocs/about.php",
+		"/F/downloads/others/photoqqew.php",
+		"/E/xampp/htdocs/php _advance/index.php",
+		"/E/xampp/htdocs/web2/index.php"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "style.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
